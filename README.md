@@ -33,5 +33,5 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Stats
-[![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyanPrakash2483)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyanPrakash2483&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+[![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyanPrakash2483&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyanPrakash2483&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
