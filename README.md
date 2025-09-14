@@ -5,7 +5,7 @@
   <!-- Profile Views Badge -->
   <a href="https://github.com/shubhamsingh7575">
     <img 
-      src="https://komarev.com/ghpvc/?username=shubhamsingh7575&label=Profile+Views&color=0e75b6&style=for-the-badge" 
+      src="https://komarev.com/ghpvc/?username=GyanPrakash2483&label=Profile+Views&color=0e75b6&style=for-the-badge" 
       alt="Profile Views"
     />
   </a>
