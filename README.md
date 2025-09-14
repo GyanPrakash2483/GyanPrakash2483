@@ -1,6 +1,16 @@
 ## Hi there 👋
 ![Header](./github-header-image.png)
+<div align="center">
 
+  <!-- Profile Views Badge -->
+  <a href="https://github.com/shubhamsingh7575">
+    <img 
+      src="https://komarev.com/ghpvc/?username=shubhamsingh7575&label=Profile+Views&color=0e75b6&style=for-the-badge" 
+      alt="Profile Views"
+    />
+  </a>
+
+</div>
 ## Skills
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
