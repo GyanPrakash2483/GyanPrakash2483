@@ -3,7 +3,7 @@
 <div align="center">
 
   <!-- Profile Views Badge -->
-  <a href="https://github.com/shubhamsingh7575">
+  <a href="https://github.com/GyanPrakash2483">
     <img 
       src="https://komarev.com/ghpvc/?username=GyanPrakash2483&label=Profile+Views&color=0e75b6&style=for-the-badge" 
       alt="Profile Views"
@@ -45,9 +45,5 @@
 
 ## Contributions
 ![](./profile-3d-contrib/profile-night-view.svg)
-
-## Stats
-[![Gyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyanPrakash2483&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GyanPrakash2483&layout=donut&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 
